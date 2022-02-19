@@ -40,7 +40,7 @@ const server = http.createServer((req, res) => {
 })
 
 server.listen(port, hostname, () => {
-    console.log(`Server running ober http://${hostname}:${port}`)
+    console.log(`Server running in http://${hostname}:${port}`)
 })
 </pre>
 
@@ -50,7 +50,7 @@ Desde la terminal, en la carpeta de nuestro proyecto, ejecutar:
 
 Deberíamos de obener un mensaje indicando que el servidor está ejecutándose:
 
-`Server running ober http://127.0.0.1:3000`
+`Server running in http://127.0.0.1:3000`
 
 Si abrimos un navegador en esa URL debemos ver nuestro mensaje.
 
