@@ -433,7 +433,7 @@ Después agregamos el botón de eliminar a la vista:
     <tr>
         <th></th>
         <td>
-            <form method="POST" action="/products/{{ id }}?_method=DELETE">
+            <form method="POST" action="/products/{{ product.id }}?_method=DELETE">
                 <input type="submit" value="DELETE ?">
             </form>
         </td>
