@@ -10,7 +10,7 @@ npm init -y
 
 Después de ejecutar el comando se va a generar dentro de la carpeta el archivo `package.json` este archivo es el que utiliza `npm` para identificar los paquetes necesarios de tu proyecto.
 
-El contenido de `package.json` será:
+El contenido de `package.json`  será:
 
 ```json
 {
