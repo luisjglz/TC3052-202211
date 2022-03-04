@@ -31,7 +31,7 @@ La información que vamos a capturar es nombre y precio, nuestro archivo tendrá
     <div>
         <input type="submit" value="Store">
     </div>
-</form>
+</form> 
 ```
 
 Nota que lo estamos enviando a la ruta `/products` a través del método `POST`. Por lo tanto en nuestras rutas debemos de manejar esta petición. 
