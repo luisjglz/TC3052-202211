@@ -1,0 +1,18 @@
+<h1>Edit product</h1>
+<form method="POST" action="/products/{{product.id}}?_method=PUT">
+    <div>
+        <label for="name">Name: </label>
+        <input type="text" id="name" name="name" value="{{ product.name }}">
+    </div>
+    <div>
+        <label for="price">Price: </label>
+        <input type="text" id="price" name="price" value="{{ product.price }}">
+    </div>
+    <div>
+        <label for="description">Description: </label>
+        <input type="text" id="description" name="description" value="{{ product.description }}">
+    </div>
+    <div>
+        <input type="submit" value="Edit">
+    </div>
+</form>
