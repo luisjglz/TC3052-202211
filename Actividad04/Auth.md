@@ -13,16 +13,8 @@ npm init
 Ejecuta el proyecto en tu sistema
 
 ```bash
-node server.js
+npm run devstart
 ```
-
-Algunos cambios a otros proyectos que habíamos manejado:
-
-* Estamos ejecutando Node.js sobre el archivo `server.js` anteriormente lo hacíamos a través de un archivo `app.js`. El nombre del archivo es a tu discreción.
-
-* Las rutas ahora están almacenadas en `routes/web.js` en vez de `routes/app.js`
-
-* Se está utilizando el paquete [Handlebars Helpers](https://github.com/helpers/handlebars-helpers) para facilitar algunas funciones dentro de las vistas de `handlebars` en particular el año que aparece en el pie de página en las páginas de _login_ y _register_.
 
 ## Almacenar un usuario
 
