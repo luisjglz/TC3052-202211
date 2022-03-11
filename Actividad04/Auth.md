@@ -2,7 +2,7 @@
 
 ## Requisitos
 
-Descarga el repositorio: [https://github.com/minervatron/ldaw-auth-base](https://github.com/minervatron/ldaw-auth-base)
+Descarga el repositorio: [https://github.com/luisjglz/TC3052-202211/Actividad04/CRUD-bicicletas-start.zip](https://github.com/luisjglz/TC3052-202211/Actividad04/CRUD-bicicletas-start.zip)
 
 Instala el proyecto en tu sistema:
 
