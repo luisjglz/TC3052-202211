@@ -2,7 +2,7 @@
 
 ## Requisitos
 
-Descarga el repositorio: [https://github.com/luisjglz/TC3052-202211/blob/a6638cb1151d51a0929ebf543275eab601f03b2d/Actividad04/CRUD-bicicletas-start.zip](TC3052-202211/Actividad04/CRUD-bicicletas-start.zip)
+Descarga el repositorio: [TC3052-202211/Actividad04/CRUD-bicicletas-start.zip](https://github.com/luisjglz/TC3052-202211/blob/a6638cb1151d51a0929ebf543275eab601f03b2d/Actividad04/CRUD-bicicletas-start.zip)
 
 Instala el proyecto en tu sistema:
 
