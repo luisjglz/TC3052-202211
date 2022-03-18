@@ -2,7 +2,7 @@
 
 ## Requisitos
 
-Descarga el repositorio: [https://github.com/luisjglz/TC3052-202211/blob/main/Actividad05/CRUD-bicicletas-ajax-start.zip](https://github.com/luisjglz/TC3052-202211/Actividad05/CRUD-bicicletas-ajax-start.zip)
+Descarga el repositorio: [https://github.com/luisjglz/TC3052-202211/Actividad05/CRUD-bicicletas-ajax-start.zip](https://github.com/luisjglz/TC3052-202211/blob/main/Actividad05/CRUD-bicicletas-ajax-start.zip)
 
 Instala el proyecto en tu sistema:
 
