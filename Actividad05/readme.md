@@ -221,7 +221,7 @@ Finalmente nuestra modificación en HTML quedaría:
 El siguiente paso será validar que el usuario nos este dando la infomación correcta, para esto usaremos [express-validator](https://express-validator.github.io/docs/).
 
 ```shell
-npm i express-validator
+npm i express-validator 
 ```
 
 Ahora creamos una nueva carpeta que se llame `validators` y dentro de ella colocaremos un archivo nuevo que se llame `AuthValidator.js`.
