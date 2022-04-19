@@ -283,7 +283,7 @@ import Hobbies from './js/components/Hobbies';
 // ReactDOM.render(<HelloWorld />, appContainer);
 
 const hobbiesContainer = document.getElementById('hobbies');
-ReactDOM.render(<Hobbies hobbies={["Videogames", "Programming", "Sci-fi movies", "Uber-dark metal music"]} />, hobbiesContainer);
+ReactDOM.render(<Hobbies hobbies={["Tennis","Programming","Soccer","Guitar"Reac]} />, hobbiesContainer);
 ```
 
 Finalmente modificamos `src/index.html`:
